@@ -1,27 +1,28 @@
-.div1 {
-    max-width: 980;
-    padding: 12px, 80px;
-    margin: 12px, 860px, 1020px, 80px;
-    font-family: Inter;
-    align-items: center;
-}
+
+
 .input1 {
-    padding: 8px, 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
     border-radius: 8px;
-    border: 1px solid #AC00FF;
+    border: 1px, solid #AC00FF;
     background: #E9D7FE;
     color: #AC00FF;
     font-size: 14px;
-    margin-left: 100px;
+    margin-left: 80px;
   
 }
 .logo {
-    padding: 14px;
-    margin-left: 30px;
+    padding: 12px;
+    width: 147px;
+    margin-left: 80px;
+    
 }
 .prod {
     font-size: 18px;
     margin-left:100px; 
+  
 }
 .serv {
     font-size: 18px;
@@ -34,4 +35,51 @@
 .offe {
     font-size: 18px;
     margin-left: 22px;
+}
+.txt1 {
+    color: #323232;
+    font-family: Impact;
+    font-size: 64px;
+    margin-left: 214px;
+    margin-top: 136px;
+    line-height: 74px;
+}
+.txt2 {
+    margin-left: 214px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    color: #323232;
+    font-size: 24px;
+    line-height: 32px;
+}
+.input2 {
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    font-size: 18px;
+    background-color: #5C3BAE;
+    border-radius: 8px;
+    color: #FFF;
+    border: #5C3BAE;
+    margin-right: 24px;
+    margin-left: 214px;
+}
+.simplecard {
+    margin-top: 136px;
+    margin-left: 114px;
+    max-width: 841px;
+
+}
+.groupsvg {
+    margin-right: 12px;
+    width: 32px;
+    height: 32px;   
+
+
+}
+.link {
+    color: #4D3491;
+    font-size: 18px;
+
 }
