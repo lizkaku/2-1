@@ -81,5 +81,29 @@
 .link {
     color: #4D3491;
     font-size: 18px;
+}
+.cards {
+    margin-top: 407px;
+    margin-left: 636px;
+    margin-bottom: 40px;
+    margin-right: 27px;
+}
+.pic1 {
+    margin-top: 288px;
+    margin-left:  640px;
+    margin-bottom: 468px;
+}
 
+.pic2 {
+    margin-top: 454px;
+    margin-left: 928px;
+    margin-bottom: 302px;
+}
+.pic3 {
+    margin-top: 620px;
+    margin-left: 1221px;
+    margin-bottom: 136px;
+}
+.pic4 {
+    margin-top: 366px;
 }
